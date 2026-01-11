@@ -1,1 +1,82 @@
+Create a complete, production-ready wedding invitation website project suitable for GitHub.
 
+Requirements:
+- Tech stack: HTML, CSS, JavaScript only (no frameworks)
+- Mobile-first, responsive design
+- Clean, elegant, boho aesthetic
+- Modern UI with smooth animations
+- Well-structured folders and clean code
+- Commented code for easy understanding
+
+Design & Themes:
+- Include 3 switchable themes:
+  1) Elegant White & Gold
+  2) Boho Beige & Earth tones
+  3) Minimal Floral Pastel
+- Use CSS variables for theme switching
+- Add subtle boho patterns and soft background textures (CSS-based, no copyrighted images)
+
+Typography:
+- Beautiful wedding-style fonts for couple names (Google Fonts only)
+- Serif + handwritten font combination
+- Large elegant heading for couple name
+- Readable body text
+
+Sections:
+1. Hero Section
+   - Couple names
+   - Wedding date
+   - Elegant background
+   - Soft fade-in animation
+
+2. Photo Gallery
+   - Responsive image grid
+   - Placeholder images
+   - Lightbox modal on click
+
+3. Wedding Details
+   - Date
+   - Time
+   - Venue
+   - Events timeline
+
+4. RSVP Form
+   - Name
+   - Email
+   - Attendance (Yes / No)
+   - Number of guests
+   - Message
+   - Client-side validation
+   - Form submission ready for Google Forms / Firebase integration
+   - Show success message on submit
+
+5. Footer
+   - Thank you message
+   - Wedding hashtag
+
+JavaScript Features:
+- Theme switcher (buttons or dropdown)
+- Smooth scroll
+- Form validation
+- Image modal
+- Simple animation triggers
+
+Folder Structure:
+- /index.html
+- /css/style.css
+- /js/script.js
+- /assets/images/
+- /README.md
+
+README.md:
+- Project description
+- Features list
+- Setup instructions
+- How to connect RSVP form to Google Forms
+- How to deploy on GitHub Pages
+
+Output:
+- Provide full code for all files
+- Do not skip any section
+- Use only free & commercial-use assets
+- Ensure project is GitHub Pages compatible
